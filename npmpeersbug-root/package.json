@@ -1,0 +1,19 @@
+{
+  "name": "@maxbilbow/npmpeersbug-root",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxbilbow/npmpeersbug.git",
+    "directory": "npmpeersbug-root"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "@maxbilbow/npmpeersbug-peer": "1.0.0"
+  }
+}
